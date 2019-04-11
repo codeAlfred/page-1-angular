@@ -1,0 +1,14 @@
+.banner {    
+    height: 700px;
+    object-fit: cover;
+    background: url('../../assets/inicio.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    
+}
+
